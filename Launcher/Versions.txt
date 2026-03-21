@@ -1,1 +1,1 @@
-Nightly|https://github.com|mclemp/MCLEClient/releases/download/nightly/MCLEWindows64.zip
+Nightly|github.com|/mclemp/MCLEClient/releases/download/nightly/MCLEWindows64.zip
