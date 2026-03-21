@@ -1,1 +1,1 @@
-TU19|github.com|/mclemp/MCLEClient/releases/download/tu19/MCLEWindows64.zip|1
+TU19|github.com|/mclemp/MCLEClient/releases/download/tu19/LCEWindows64.zip|1
