@@ -1,1 +1,1 @@
-TU19|github.com|/mclemp/MCLEClient/releases/download/Nightly/LCEWindows64.zip|6
+TU19|github.com|/mclemp/MCLEClient/releases/download/nightly/LCEWindows64.zip|6
